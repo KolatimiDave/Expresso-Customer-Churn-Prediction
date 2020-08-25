@@ -1,0 +1,2 @@
+xgboost==1.0.2
+catboost==0.23.2
